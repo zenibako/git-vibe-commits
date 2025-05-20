@@ -3,7 +3,7 @@
 Inspired by [fteem's Git semantic commits repo](https://github.com/fteem/git-semantic-commits).
 
 ## What is this?
-Easily commit your vibe code before correcting everything and making it somewhat prod-ready.
+Easily commit your agent-produced vibe code before correcting everything and making it somewhat prod-ready.
 
 ## Installation:
 
